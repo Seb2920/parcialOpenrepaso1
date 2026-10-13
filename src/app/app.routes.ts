@@ -1,5 +1,5 @@
 import { Routes } from '@angular/router';
-import { BookstoreOverwiev} from './bookstores/presentation/views/bookstore-overwiev/bookstore-overwiev';
+import { BookstoreOverwiev } from './bookstores/presentation/views/bookstore-overwiev/bookstore-overwiev';
 import { ReceiveBooks } from './inventory/presentation/views/receive-books/receive-books';
 import { PageNotFound} from './shared/presentation/views/page-not-found/page-not-found';
 
